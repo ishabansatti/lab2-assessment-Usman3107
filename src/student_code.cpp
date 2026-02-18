@@ -34,5 +34,8 @@ Formula:
 */
 float fahrenheitToCelsius(float fahrenheit) {
     //return celsius;
-
-}
+    float fahrenheit = 98.6 // Human Body Temperature
+    // Conversion
+    float celcius = (Fahrenheit - 32) * 5 / 9
+    return 0 ;
+    }
