@@ -23,6 +23,8 @@ char getCharValue() {
 
 int convertFloatToInt(float value) {
     // convert value to int.
+    float value;
+    
     return value;
 }
 
@@ -34,8 +36,7 @@ Formula:
 */
 float fahrenheitToCelsius(float fahrenheit) {
     //return celsius;
-    float fahrenheit = 98.6 // Human Body Temperature
     // Conversion
-    float celcius = (Fahrenheit - 32) * 5 / 9
-    return 0 ;
+    float celcius = (fahrenheit - 32) * 5 / 9
+    return var_celcius ;
     }
